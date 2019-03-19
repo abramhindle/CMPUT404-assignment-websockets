@@ -14,7 +14,7 @@ Create a virtual environment and install the required dependencies.
 ```bash
 virtualenv venv --python=python3
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.org
 ```
 
 Contributors / Licensing
